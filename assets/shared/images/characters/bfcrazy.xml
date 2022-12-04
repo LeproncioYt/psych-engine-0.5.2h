@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfcrazy.png">
+<SubTexture name="bfcrazy idle0000" x="1702" y="1012" width="469" height="497" frameX="-297" frameY="-169" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy idle0001" x="1702" y="507" width="475" height="505" frameX="-293" frameY="-161" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy idle0002" x="2194" y="1478" width="462" height="489" frameX="-303" frameY="-177" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy idle0003" x="2194" y="987" width="465" height="491" frameX="-301" frameY="-174" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy idle0004" x="2194" y="0" width="468" height="494" frameX="-298" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy idle0005" x="1702" y="1012" width="469" height="497" frameX="-297" frameY="-169" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy left0000" x="471" y="1550" width="470" height="494" frameX="-233" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy left0001" x="942" y="1550" width="468" height="494" frameX="-228" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy left0002" x="1410" y="1550" width="469" height="494" frameX="-227" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy down0000" x="0" y="2047" width="454" height="476" frameX="-251" frameY="-192" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy down0001" x="1818" y="2047" width="463" height="470" frameX="-251" frameY="-197" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy down0002" x="2662" y="0" width="466" height="465" frameX="-251" frameY="-202" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy down0003" x="0" y="2524" width="469" height="462" frameX="-251" frameY="-204" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy up0000" x="0" y="527" width="413" height="513" frameX="-280" frameY="-154" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy up0001" x="806" y="0" width="407" height="521" frameX="-280" frameY="-147" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy up0002" x="402" y="0" width="404" height="525" frameX="-280" frameY="-143" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy up0003" x="0" y="0" width="402" height="527" frameX="-280" frameY="-141" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy right0000" x="888" y="1040" width="445" height="509" frameX="-323" frameY="-162" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy right0001" x="443" y="1040" width="444" height="510" frameX="-334" frameY="-162" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy right0002" x="1214" y="511" width="440" height="510" frameX="-343" frameY="-162" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy right0003" x="0" y="1040" width="443" height="510" frameX="-343" frameY="-162" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0000" x="0" y="1550" width="471" height="497" frameX="-297" frameY="-169" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0001" x="2194" y="494" width="466" height="493" frameX="-300" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0002" x="454" y="2047" width="453" height="475" frameX="-313" frameY="-190" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0003" x="1360" y="2047" width="458" height="471" frameX="-308" frameY="-194" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0004" x="1360" y="2047" width="458" height="471" frameX="-308" frameY="-194" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0005" x="1360" y="2047" width="458" height="471" frameX="-308" frameY="-194" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0006" x="907" y="2047" width="452" height="474" frameX="-314" frameY="-191" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0007" x="1702" y="0" width="492" height="507" frameX="-282" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0008" x="413" y="527" width="491" height="512" frameX="-280" frameY="-154" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0009" x="1214" y="0" width="488" height="511" frameX="-280" frameY="-154" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0010" x="1214" y="0" width="488" height="511" frameX="-280" frameY="-154" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0011" x="1214" y="0" width="488" height="511" frameX="-280" frameY="-154" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0012" x="1214" y="0" width="488" height="511" frameX="-280" frameY="-154" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0013" x="1214" y="0" width="488" height="511" frameX="-280" frameY="-154" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0014" x="1214" y="0" width="488" height="511" frameX="-280" frameY="-154" frameWidth="1280" frameHeight="720" />
+<SubTexture name="bfcrazy end0015" x="1214" y="0" width="488" height="511" frameX="-280" frameY="-154" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
